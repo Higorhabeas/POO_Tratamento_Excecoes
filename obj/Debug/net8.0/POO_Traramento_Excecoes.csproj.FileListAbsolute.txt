@@ -1,0 +1,14 @@
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\bin\Debug\net8.0\POO_Traramento_Excecoes.exe
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\bin\Debug\net8.0\POO_Traramento_Excecoes.deps.json
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\bin\Debug\net8.0\POO_Traramento_Excecoes.runtimeconfig.json
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\bin\Debug\net8.0\POO_Traramento_Excecoes.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\bin\Debug\net8.0\POO_Traramento_Excecoes.pdb
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\obj\Debug\net8.0\POO_Traramento_Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\obj\Debug\net8.0\POO_Traramento_Excecoes.AssemblyInfoInputs.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\obj\Debug\net8.0\POO_Traramento_Excecoes.AssemblyInfo.cs
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\obj\Debug\net8.0\POO_Traramento_Excecoes.csproj.CoreCompileInputs.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\obj\Debug\net8.0\POO_Traramento_Excecoes.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\obj\Debug\net8.0\refint\POO_Traramento_Excecoes.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\obj\Debug\net8.0\POO_Traramento_Excecoes.pdb
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\obj\Debug\net8.0\POO_Traramento_Excecoes.genruntimeconfig.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Traramento_Excecoes\obj\Debug\net8.0\ref\POO_Traramento_Excecoes.dll
